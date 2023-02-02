@@ -1,5 +1,5 @@
-# Discrete-Mathematics-Project
 
+# Hill-Cipher Encryption/Decryption
 - The Hill Cipher was developed by ‘Lester Hill’ in 1929, setting it firmly in the classical age of cryptography.
 - Hill cipher is a polygraphic substitution cipher based on linear algebra. In simple words, it is a cryptography algorithm used to encrypt and decrypt data for the  purpose of data security.
 - The Hill cipher makes use of modulo arithmetic, matrix multiplication, and matrix inverses; hence, it is a more mathematical cipher than others. The Hill cipher is also a block cipher.
