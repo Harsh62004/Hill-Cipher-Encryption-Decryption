@@ -9,6 +9,7 @@ In this project we explore more about Hill cipher. The code in this repository e
 
 ## Contributers
 
+[Charith Kutikuppala](https://github.com/itsmeck24)   
 [Harsh Mungara](https://github.com/Harsh62004)  
-[Charith Kutikuppala](https://github.com/itsmeck24)  
+
  
